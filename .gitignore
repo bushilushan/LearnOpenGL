@@ -1,0 +1,12 @@
+#Directories
+.vs/
+opengl/
+packages/
+x64/
+
+#Files
+opengl.sln
+opengl.vcxproj
+opengl.vcxproj.filters
+opengl.vcxproj.user
+packages.config
